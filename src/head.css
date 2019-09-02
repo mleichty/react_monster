@@ -1,0 +1,61 @@
+.headDiv {
+    display: flex;
+    /* background-color: purple; */
+}
+
+.headOriginalState {
+    background-image: url(images/make.png);
+    background-position: center;
+    background-position: cover;
+    margin: auto;
+    height: 200px;
+    width: 50%;
+}
+
+.buttonLeft {
+    background-image: url(images/leftArrow.png);
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+    height: 100px;
+    width: 25%;
+}
+
+.buttonRight {
+    background-image: url(images/rightArrow.png);
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+    height: 100px;
+    width: 25%;
+}
+
+.headClass0 {
+    /* background-color: yellow; */
+    background-image: url(images/monster1-1.png);
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+    height: 200px;
+    width: 50%;
+}
+
+.headClass1 {
+    /* background-color: greenyellow; */
+    background-image: url(images/monster2-1.png);
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+    height: 200px;
+    width: 50%;
+}
+
+.headClass2 {
+    /* background-color: green; */
+    background-image: url(images/monster3-1.png);
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+    height: 200px;
+    width: 50%;
+}

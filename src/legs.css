@@ -1,0 +1,61 @@
+.legsDiv {
+    display: flex;
+    /* background-color: purple; */
+}
+
+.legsOriginalState {
+    background-image: url(images/pretty.png);
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+    height: 200px;
+    width: 50%;
+}
+
+.buttonLeft {
+    background-image: url(images/leftArrow.png);
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+    height: 100px;
+    width: 25%;
+}
+
+.buttonRight {
+    background-image: url(images/rightArrow.png);
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+    height: 100px;
+    width: 25%;
+}
+
+.legsClass0 {
+    /* background-color: yellow; */
+    background-image: url(images/monster1-3.png);
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+    height: 200px;
+    width: 50%;
+}
+
+.legsClass1 {
+    /* background-color: greenyellow; */
+    background-image: url(images/monster2-3.png);
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+    height: 200px;
+    width: 50%;
+}
+
+.legsClass2 {
+    /* background-color: green; */
+    background-image: url(images/monster3-3.png);
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+    height: 200px;
+    width: 50%;
+}
