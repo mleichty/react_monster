@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react_monster/static/css/main.b3381017.chunk.css",
+    "main.js": "/react_monster/static/js/main.672a3616.chunk.js",
+    "main.js.map": "/react_monster/static/js/main.672a3616.chunk.js.map",
+    "runtime~main.js": "/react_monster/static/js/runtime~main.0b7ec1a0.js",
+    "runtime~main.js.map": "/react_monster/static/js/runtime~main.0b7ec1a0.js.map",
+    "static/js/2.3c2defdb.chunk.js": "/react_monster/static/js/2.3c2defdb.chunk.js",
+    "static/js/2.3c2defdb.chunk.js.map": "/react_monster/static/js/2.3c2defdb.chunk.js.map",
+    "index.html": "/react_monster/index.html",
+    "precache-manifest.b4c3f3ce1e6b8009816d31ebdea2423d.js": "/react_monster/precache-manifest.b4c3f3ce1e6b8009816d31ebdea2423d.js",
+    "service-worker.js": "/react_monster/service-worker.js",
+    "static/css/main.b3381017.chunk.css.map": "/react_monster/static/css/main.b3381017.chunk.css.map",
+    "static/media/legs.css": "/react_monster/static/media/rightArrow.f65d370f.png",
+    "static/media/head.css": "/react_monster/static/media/monster3-1.7b8b501c.png",
+    "static/media/body.css": "/react_monster/static/media/monster3-2.172c4a03.png"
+  }
+}
